@@ -101,6 +101,7 @@ function serve(req, res) {
 
 const server = http.createServer((req, res) => {
   if (req.url.startsWith('/stream')) stream(req, res);
+  else if (req.url.startsWith('/healthz')) { res.writeHead(200, { 'Content-Type': 'text/plain' }); res.end('ok'); }
   else serve(req, res);
 });
 

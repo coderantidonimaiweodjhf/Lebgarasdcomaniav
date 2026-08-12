@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: omniscient-v22-terminal
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: PORT
+        value: 10000
