@@ -1,0 +1,16 @@
+{
+  "name": "omniscient-v22-terminal",
+  "version": "22.0.0",
+  "description": "XAUUSDT OMNISCIENT SCALPER v22.0 — 700-Agent Swarm Terminal (Binance public APIs only, zero dependencies)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js",
+    "backtest": "node backtest.js"
+  },
+  "engines": {
+    "node": ">=21"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

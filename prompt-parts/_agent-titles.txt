@@ -1,0 +1,600 @@
+﻿**AGENT 1.1 — Pin Bar Support Specialist**
+**AGENT 1.2 — Pin Bar Resistance Specialist**
+**AGENT 1.3 — Pin Bar Volume Analyst**
+**AGENT 1.4 — Pin Bar EMA Confluence**
+**AGENT 1.5 — Multi-Timeframe Pin Analyst**
+**AGENT 1.6 — False Break Pin Hunter**
+**AGENT 1.7 — Exhaustion Pin Specialist**
+**AGENT 1.8 — Squeeze Pin Specialist**
+**AGENT 1.9 — Wick Mathematics Specialist**
+**AGENT 1.10 — Rejection Speed Analyst**
+**AGENT 2.1 — Bullish Engulfing Specialist**
+**AGENT 2.2 — Bearish Engulfing Specialist**
+**AGENT 2.3 — Engulfing Volume Analyst**
+**AGENT 2.4 — Inside-Engulfing Combo**
+**AGENT 2.5 — Multi-Timeframe Engulfing**
+**AGENT 2.6 — Failed Engulfing Hunter**
+**AGENT 2.7 — Engulfing at Key Levels**
+**AGENT 2.8 — Engulfing Size & Range**
+**AGENT 2.9 — Engulfing EMA Dynamics**
+**AGENT 2.10 — Engulfing Momentum Confluence**
+**AGENT 3.1 — Dragonfly Doji Specialist**
+**AGENT 3.2 — Gravestone Doji Specialist**
+**AGENT 3.3 — Long-Legged Doji Analyst**
+**AGENT 3.4 — Four-Price Doji & Spinning Top**
+**AGENT 3.5 — Morning Star Specialist**
+**AGENT 3.6 — Evening Star Specialist**
+**AGENT 3.7 — Harami Pattern Specialist**
+**AGENT 3.8 — Doji at Key Levels**
+**AGENT 3.9 — Doji Volume Profile**
+**AGENT 3.10 — Doji Momentum Context**
+**AGENT 4.1 — Hammer Support Specialist**
+**AGENT 4.2 — Shooting Star Resistance Specialist**
+**AGENT 4.3 — Inverted Hammer Specialist**
+**AGENT 4.4 — Hanging Man Specialist**
+**AGENT 4.5 — Hammer/Star Volume Analysis**
+**AGENT 4.6 — Multi-Timeframe Hammer/Star**
+**AGENT 4.7 — Hammer/Star EMA Confluence**
+**AGENT 4.8 — Hammer/Star False Signals**
+**AGENT 4.9 — Wick Ratio Mathematics**
+**AGENT 4.10 — Exhaustion Hammer/Star**
+**AGENT 5.1 — Three White Soldiers**
+**AGENT 5.2 — Three Black Crows**
+**AGENT 5.3 — Rising Three Methods**
+**AGENT 5.4 — Falling Three Methods**
+**AGENT 5.5 — Tweezer Tops/Bottoms**
+**AGENT 5.6 — Counter-Attack Lines**
+**AGENT 5.7 — Separating Lines**
+**AGENT 5.8 — Mat Hold Pattern**
+**AGENT 5.9 — Side-by-Side White/Black**
+**AGENT 5.10 — Advance Block / Descent Block**
+**AGENT 6.1 — Swing High Cartographer**
+**AGENT 6.2 — Swing Low Cartographer**
+**AGENT 6.3 — Equal Highs/Lows Hunter**
+**AGENT 6.4 — Previous Day High/Low**
+**AGENT 6.5 — Asian Session Levels**
+**AGENT 6.6 — Round Number Magnetism**
+**AGENT 6.7 — Fibonacci Retracement**
+**AGENT 6.8 — Fibonacci Extension**
+**AGENT 6.9 — Gap Analysis**
+**AGENT 6.10 — Level Confluence Engine**
+**AGENT 7.1 — Classic Pivot Calculator**
+**AGENT 7.2 — Camarilla Pivot Specialist**
+**AGENT 7.3 — Woodie Pivot Specialist**
+**AGENT 7.4 — Fibonacci Pivot Specialist**
+**AGENT 7.5 — Pivot Confluence Engine**
+**AGENT 7.6 — Pivot Breakout Specialist**
+**AGENT 7.7 — Pivot Range Analyst**
+**AGENT 7.8 — Multi-Timeframe Pivot**
+**AGENT 7.9 — Pivot Volume Profile**
+**AGENT 7.10 — Pivot Session Context**
+**AGENT 8.1 — EMA-8 Micro Scalper**
+**AGENT 8.2 — EMA-21 Trend Filter**
+**AGENT 8.3 — EMA-50 Major Divider**
+**AGENT 8.4 — EMA-200 Macro Trend**
+**AGENT 8.5 — VWAP Session Analyst**
+**AGENT 8.6 — VWAP Standard Deviation**
+**AGENT 8.7 — Opening Range Specialist**
+**AGENT 8.8 — ATR Dynamic Envelope**
+**AGENT 8.9 — Keltner Dynamic S/R**
+**AGENT 8.10 — Previous Candle Micro Levels**
+**AGENT 9.1 — Ascending Trendline Trader**
+**AGENT 9.2 — Descending Trendline Trader**
+**AGENT 9.3 — Trendline Confluence**
+**AGENT 9.4 — Trendline Break Dynamics**
+**AGENT 9.5 — Trendline Fan Principle**
+**AGENT 9.6 — Internal Trendlines**
+**AGENT 9.7 — Trendline Touch Quality**
+**AGENT 9.8 — Trendline Slope Analysis**
+**AGENT 9.9 — Multi-Timeframe Trendlines**
+**AGENT 9.10 — Trendline Volume Profile**
+**AGENT 10.1 — Parallel Channel Trader**
+**AGENT 10.2 — Channel Breakout Specialist**
+**AGENT 10.3 — Channel Squeeze Detector**
+**AGENT 10.4 — Channel EMA Dynamics**
+**AGENT 10.5 — Channel Volume Analysis**
+**AGENT 10.6 — Trend Channel vs Range Channel**
+**AGENT 10.7 — Channel Pattern Combinations**
+**AGENT 10.8 — Channel Time Analysis**
+**AGENT 10.9 — Channel Microstructure**
+**AGENT 10.10 — Channel Risk Management**
+**AGENT 11.1 — Range Identification**
+**AGENT 11.2 — Rectangle Specialist**
+**AGENT 11.3 — Triangle Specialist**
+**AGENT 11.4 — Flag & Pennant**
+**AGENT 11.5 — Wedge Specialist**
+**AGENT 11.6 — Diamond & Broadening**
+**AGENT 11.7 — Consolidation Volume Profile**
+**AGENT 11.8 — Consolidation Time Analysis**
+**AGENT 11.9 — Consolidation Breakout Quality**
+**AGENT 11.10 — Consolidation Risk Framework**
+**AGENT 12.1 — Breakout Confirmation**
+**AGENT 12.2 — Fakeout Detection**
+**AGENT 12.3 — Breakout Volume Dynamics**
+**AGENT 12.4 — Breakout Microstructure**
+**AGENT 12.5 — Multi-Timeframe Breakout**
+**AGENT 12.6 — Breakout Momentum**
+**AGENT 12.7 — Breakout Measured Moves**
+**AGENT 12.8 — Breakout Timing**
+**AGENT 12.9 — Breakout Risk Management**
+**AGENT 12.10 — Breakout Derivatives Context**
+**AGENT 13.1 — Equal Highs Liquidity**
+**AGENT 13.2 — Equal Lows Liquidity**
+**AGENT 13.3 — Stop Hunt Detector**
+**AGENT 13.4 — Liquidity Sweep Patterns**
+**AGENT 13.5 — Inducement Hunter**
+**AGENT 13.6 — Liquidity Void Hunter**
+**AGENT 13.7 — Internal Range Liquidity**
+**AGENT 13.8 — External Range Liquidity**
+**AGENT 13.9 — Smart Money Concepts**
+**AGENT 13.10 — Liquidity Risk Framework**
+**AGENT 14.1 — POC Analyst**
+**AGENT 14.2 — Value Area Specialist**
+**AGENT 14.3 — Volume Node Hierarchy**
+**AGENT 14.4 — Volume Profile Shape**
+**AGENT 14.5 — Developing Volume Profile**
+**AGENT 14.6 — Fixed Range Volume Profile**
+**AGENT 14.7 — Volume Profile & Price Action**
+**AGENT 14.8 — Session Volume Profile**
+**AGENT 14.9 — Relative Volume Analysis**
+**AGENT 14.10 — Volume Profile Risk**
+**AGENT 15.1 — Volume Spike Identification**
+**AGENT 15.2 — Volume Climax**
+**AGENT 15.3 — Volume Dry-Up**
+**AGENT 15.4 — Volume Trend Analysis**
+**AGENT 15.5 — Comparative Volume**
+**AGENT 15.6 — Volume & Candle Body**
+**AGENT 15.7 — Volume & Price Speed**
+**AGENT 15.8 — Volume Distribution**
+**AGENT 15.9 — Volume Divergence**
+**AGENT 15.10 — Volume Risk Framework**
+**AGENT 16.1 — CVD Trend Alignment**
+**AGENT 16.2 — CVD Divergence Specialist**
+**AGENT 16.3 — Delta Analysis**
+**AGENT 16.4 — Footprint Patterns**
+**AGENT 16.5 — CVD & Key Levels**
+**AGENT 16.6 — Multi-Timeframe CVD**
+**AGENT 16.7 — CVD Rate of Change**
+**AGENT 16.8 — Delta & Spread**
+**AGENT 16.9 — CVD Pattern Recognition**
+**AGENT 16.10 — CVD Risk Framework**
+**AGENT 17.1 — Bid Wall Analyst**
+**AGENT 17.2 — Ask Wall Analyst**
+**AGENT 17.3 — Wall Dynamics**
+**AGENT 17.4 — Depth Imbalance**
+**AGENT 17.5 — Order Book Slope**
+**AGENT 17.6 — Hidden Order Detection**
+**AGENT 17.7 — Order Book Refresh Rate**
+**AGENT 17.8 — Depth By Price Level**
+**AGENT 17.9 — Order Book & Price Action**
+**AGENT 17.10 — Order Book Risk**
+**AGENT 18.1 — Real-Time Imbalance Tracker**
+**AGENT 18.2 — Imbalance Flip Detector**
+**AGENT 18.3 — Imbalance & Key Levels**
+**AGENT 18.4 — Imbalance During Breakouts**
+**AGENT 18.5 — Imbalance Divergence**
+**AGENT 18.6 — Imbalance Time Analysis**
+**AGENT 18.7 — Imbalance & Microstructure**
+**AGENT 18.8 — Multi-Level Imbalance**
+**AGENT 18.9 — Imbalance Decay Patterns**
+**AGENT 18.10 — Imbalance Risk**
+**AGENT 19.1 — Large Print Detector**
+**AGENT 19.2 — Tape Speed Analyst**
+**AGENT 19.3 — Trade Sequence Analyst**
+**AGENT 19.4 — Aggressive vs Passive**
+**AGENT 19.5 — Tape Pattern Recognition**
+**AGENT 19.6 — Trade Size Distribution**
+**AGENT 19.7 — Time & Sales Context**
+**AGENT 19.8 — Tape & Key Levels**
+**AGENT 19.9 — Multi-Timeframe Tape**
+**AGENT 19.10 — Tape Risk**
+**AGENT 20.1 — Absorption at Resistance**
+**AGENT 20.2 — Absorption at Support**
+**AGENT 20.3 — Exhaustion Volume**
+**AGENT 20.4 — Exhaustion Price Action**
+**AGENT 20.5 — Absorption Pattern Combo**
+**AGENT 20.6 — Exhaustion Derivatives**
+**AGENT 20.7 — Micro-Exhaustion**
+**AGENT 20.8 — Absorption Time**
+**AGENT 20.9 — Exhaustion Recovery**
+**AGENT 20.10 — Exhaustion Risk**
+**AGENT 21.1 — RSI Overbought/Oversold**
+**AGENT 21.2 — RSI Divergence**
+**AGENT 21.3 — RSI Trend & Level**
+**AGENT 21.4 — RSI Multi-Timeframe**
+**AGENT 21.5 — RSI & Price Action**
+**AGENT 21.6 — RSI Rate of Change**
+**AGENT 21.7 — RSI Pattern Recognition**
+**AGENT 21.8 — RSI & Volume**
+**AGENT 21.9 — RSI Adaptive**
+**AGENT 21.10 — RSI Risk**
+**AGENT 22.1 — MACD Crossover**
+**AGENT 22.2 — MACD Histogram**
+**AGENT 22.3 — MACD Divergence**
+**AGENT 22.4 — MACD Zero Line**
+**AGENT 22.5 — MACD Multi-Timeframe**
+**AGENT 22.6 — MACD & Price Action**
+**AGENT 22.7 — MACD Squeeze**
+**AGENT 22.8 — MACD Rate of Change**
+**AGENT 22.9 — MACD & Volume**
+**AGENT 22.10 — MACD Risk**
+**AGENT 23.1 — Stochastic Overbought/Oversold**
+**AGENT 23.2 — Stochastic Crossover**
+**AGENT 23.3 — Stochastic Divergence**
+**AGENT 23.4 — Stochastic Multi-Timeframe**
+**AGENT 23.5 — Stochastic & Price Action**
+**AGENT 23.6 — Stochastic Midline**
+**AGENT 23.7 — Stochastic Pattern**
+**AGENT 23.8 — Stochastic & Volume**
+**AGENT 23.9 — Stochastic Smoothing**
+**AGENT 23.10 — Stochastic Risk**
+**AGENT 24.1 — CCI Overbought/Oversold**
+**AGENT 24.2 — CCI Zero Line**
+**AGENT 24.3 — CCI Divergence**
+**AGENT 24.4 — Williams %R Overbought/Oversold**
+**AGENT 24.5 — Williams %R Failure Swing**
+**AGENT 24.6 — CCI & Williams Combined**
+**AGENT 24.7 — CCI/%R & Price Action**
+**AGENT 24.8 — Multi-Timeframe CCI/%R**
+**AGENT 24.9 — CCI/%R Rate of Change**
+**AGENT 24.10 — CCI/%R Risk**
+**AGENT 25.1 — Minimum Momentum Alignment**
+**AGENT 25.2 — Momentum Divergence Matrix**
+**AGENT 25.3 — Momentum Trend Alignment**
+**AGENT 25.4 — Momentum & Volume**
+**AGENT 25.5 — Momentum & Structure**
+**AGENT 25.6 — Momentum Time Analysis**
+**AGENT 25.7 — Momentum Microstructure**
+**AGENT 25.8 — Adaptive Momentum**
+**AGENT 25.9 — Momentum Pattern**
+**AGENT 25.10 — Momentum Risk**
+**AGENT 26.1 — Golden Cross Scalp**
+**AGENT 26.2 — Death Cross Scalp**
+**AGENT 26.3 — EMA-50 Cross**
+**AGENT 26.4 — EMA-200 Cross**
+**AGENT 26.5 — EMA Fan Expansion**
+**AGENT 26.6 — EMA Compression**
+**AGENT 26.7 — EMA Retest Specialist**
+**AGENT 26.8 — EMA Slope Analysis**
+**AGENT 26.9 — EMA Distance Analysis**
+**AGENT 26.10 — EMA Multi-Timeframe Stack**
+**AGENT 27.1 — Dynamic Support Precision**
+**AGENT 27.2 — Dynamic Resistance Precision**
+**AGENT 27.3 — VWAP Dynamic Levels**
+**AGENT 27.4 — Opening Range Dynamics**
+**AGENT 27.5 — ATR Dynamic Envelope**
+**AGENT 27.6 — Keltner Dynamic Levels**
+**AGENT 27.7 — Previous Candle Dynamics**
+**AGENT 27.8 — Pivot Dynamic S/R**
+**AGENT 27.9 — Fibonacci Dynamic Levels**
+**AGENT 27.10 — Dynamic Level Risk**
+**AGENT 28.1 — Ribbon Expansion**
+**AGENT 28.2 — Ribbon Compression**
+**AGENT 28.3 — Ribbon Flip**
+**AGENT 28.4 — Ribbon Walk**
+**AGENT 28.5 — Ribbon Twist**
+**AGENT 28.6 — Multi-Timeframe Ribbon**
+**AGENT 28.7 — Ribbon & Price Action**
+**AGENT 28.8 — Ribbon & Volume**
+**AGENT 28.9 — Ribbon Slope**
+**AGENT 28.10 — Ribbon Risk**
+**AGENT 29.1 — Hull MA Color Change**
+**AGENT 29.2 — Hull MA Slope**
+**AGENT 29.3 — Adaptive MA Direction**
+**AGENT 29.4 — Hull + EMA Confluence**
+**AGENT 29.5 — Adaptive + Volatility**
+**AGENT 29.6 — Hull Pattern Recognition**
+**AGENT 29.7 — Adaptive Pattern Recognition**
+**AGENT 29.8 — Hull & Volume**
+**AGENT 29.9 — Adaptive Multi-Timeframe**
+**AGENT 29.10 — Hull/Adaptive Risk**
+**AGENT 30.1 — 3m/15m Alignment**
+**AGENT 30.2 — 15m/1h Alignment**
+**AGENT 30.3 — 1h/4h Alignment**
+**AGENT 30.4 — All EMA Green/Red**
+**AGENT 30.5 — EMA Hierarchy**
+**AGENT 30.6 — Macro Support Scalp**
+**AGENT 30.7 — EMA Confluence Count**
+**AGENT 30.8 — EMA Time Analysis**
+**AGENT 30.9 — EMA Microstructure**
+**AGENT 30.10 — EMA Risk**
+**AGENT 31.1 — ATR Baseline**
+**AGENT 31.2 — ATR Percent Regime**
+**AGENT 31.3 — ATR Position Sizing**
+**AGENT 31.4 — ATR Take Profit**
+**AGENT 31.5 — ATR Envelope Trading**
+**AGENT 31.6 — ATR Trailing Stop**
+**AGENT 31.7 — ATR & Candle Patterns**
+**AGENT 31.8 — ATR Multi-Timeframe**
+**AGENT 31.9 — ATR & Derivatives**
+**AGENT 31.10 — ATR Risk**
+**AGENT 32.1 — Bollinger Band Touch**
+**AGENT 32.2 — Bollinger Squeeze**
+**AGENT 32.3 — Bollinger Expansion**
+**AGENT 32.4 — Bollinger %B**
+**AGENT 32.5 — Bollinger Bandwidth**
+**AGENT 32.6 — Bollinger & Price Action**
+**AGENT 32.7 — Bollinger Multi-Timeframe**
+**AGENT 32.8 — Bollinger & Volume**
+**AGENT 32.9 — Bollinger Mean Reversion**
+**AGENT 32.10 — Bollinger Risk**
+**AGENT 33.1 — Keltner Touch**
+**AGENT 33.2 — Keltner Walk**
+**AGENT 33.3 — Keltner Breakout**
+**AGENT 33.4 — Keltner Compression**
+**AGENT 33.5 — Keltner & Price Action**
+**AGENT 33.6 — Keltner Multi-Timeframe**
+**AGENT 33.7 — Keltner & Volume**
+**AGENT 33.8 — Keltner Mean Reversion**
+**AGENT 33.9 — Keltner Bandwidth**
+**AGENT 33.10 — Keltner Risk**
+**AGENT 34.1 — Regime Classification**
+**AGENT 34.2 — Low Volatility Trading**
+**AGENT 34.3 — Normal Volatility Trading**
+**AGENT 34.4 — High Volatility Trading**
+**AGENT 34.5 — Volatility Transition**
+**AGENT 34.6 — Volatility & Derivatives**
+**AGENT 34.7 — Volatility Time Analysis**
+**AGENT 34.8 — Volatility Pattern**
+**AGENT 34.9 — Volatility Comparative**
+**AGENT 34.10 — Volatility Risk**
+**AGENT 35.1 — Base Risk**
+**AGENT 35.2 — Volatility Adjusted Size**
+**AGENT 35.3 — Leverage Management**
+**AGENT 35.4 — Drawdown Control**
+**AGENT 35.5 — R:R Optimization**
+**AGENT 35.6 — Position Scaling**
+**AGENT 35.7 — Correlation Check**
+**AGENT 35.8 — Time Validity**
+**AGENT 35.9 — Invalidation Rules**
+**AGENT 35.10 — Position Risk Summary**
+**AGENT 36.1 — Bullish Order Block**
+**AGENT 36.2 — Bearish Order Block**
+**AGENT 36.3 — Order Block Confluence**
+**AGENT 36.4 — Order Block Time**
+**AGENT 36.5 — Order Block Volume**
+**AGENT 36.6 — Order Block Breaker**
+**AGENT 36.7 — Mitigation Block**
+**AGENT 36.8 — Order Block Microstructure**
+**AGENT 36.9 — Multi-Timeframe Order Blocks**
+**AGENT 36.10 — Order Block Risk**
+**AGENT 37.1 — Bullish FVG Specialist**
+**AGENT 37.2 — Bearish FVG Specialist**
+**AGENT 37.3 — FVG Confluence**
+**AGENT 37.4 — FVG Time**
+**AGENT 37.5 — FVG Volume**
+**AGENT 37.6 — FVG Retest Dynamics**
+**AGENT 37.7 — FVG Invalidation**
+**AGENT 37.8 — Multi-Timeframe FVG**
+**AGENT 37.9 — FVG & Price Action**
+**AGENT 37.10 — FVG Risk**
+**AGENT 38.1 — Liquidity Void Identification**
+**AGENT 38.2 — Imbalance Identification**
+**AGENT 38.3 — Void Fill Dynamics**
+**AGENT 38.4 — Imbalance Fill Dynamics**
+**AGENT 38.5 — Void & Structure**
+**AGENT 38.6 — Imbalance & Volume**
+**AGENT 38.7 — Multi-Timeframe Void**
+**AGENT 38.8 — Void Pattern**
+**AGENT 38.9 — Imbalance Pattern**
+**AGENT 38.10 — Void & Imbalance Risk**
+**AGENT 39.1 — Breaker Block Formation**
+**AGENT 39.2 — Breaker Block Trade**
+**AGENT 39.3 — Mitigation Block Trade**
+**AGENT 39.4 — Breaker Volume**
+**AGENT 39.5 — Breaker Time**
+**AGENT 39.6 — Breaker Confluence**
+**AGENT 39.7 — Breaker Multi-Timeframe**
+**AGENT 39.8 — Breaker & Price Action**
+**AGENT 39.9 — Breaker Derivatives**
+**AGENT 39.10 — Breaker Risk**
+**AGENT 40.1 — Inducement Identification**
+**AGENT 40.2 — Stop Hunt Inducement**
+**AGENT 40.3 — Liquidity Grab**
+**AGENT 40.4 — Manipulation Detection**
+**AGENT 40.5 — Inducement Volume**
+**AGENT 40.6 — Inducement Time**
+**AGENT 40.7 — Inducement Multi-Timeframe**
+**AGENT 40.8 — Inducement & Derivatives**
+**AGENT 40.9 — Inducement Pattern**
+**AGENT 40.10 — Inducement Risk**
+**AGENT 41.1 — MTF Direction Alignment**
+**AGENT 41.2 — MTF Structure Alignment**
+**AGENT 41.3 — MTF Momentum Alignment**
+**AGENT 41.4 — MTF Volume Alignment**
+**AGENT 41.5 — MTF Score Engine**
+**AGENT 41.6 — MTF Conflict Resolution**
+**AGENT 41.7 — MTF Entry Timing**
+**AGENT 41.8 — MTF Exit Timing**
+**AGENT 41.9 — MTF Confluence Count**
+**AGENT 41.10 — MTF Risk**
+**AGENT 42.1 — Hard Stop Rules**
+**AGENT 42.2 — Take Profit Rules**
+**AGENT 42.3 — Position Sizing**
+**AGENT 42.4 — Leverage Rules**
+**AGENT 42.5 — Drawdown Limits**
+**AGENT 42.6 — R:R Enforcement**
+**AGENT 42.7 — Correlation Risk**
+**AGENT 42.8 — Time Stop Rules**
+**AGENT 42.9 — Invalidation Protocol**
+**AGENT 42.10 — Risk Guardian**
+**AGENT 43.1 — London Open**
+**AGENT 43.2 — NY Open**
+**AGENT 43.3 — Asian Session**
+**AGENT 43.4 — Session Overlaps**
+**AGENT 43.5 — End of Session**
+**AGENT 43.6 — Weekend Gaps**
+**AGENT 43.7 — News Timing**
+**AGENT 43.8 — Month/Quarter End**
+**AGENT 43.9 — Holiday Trading**
+**AGENT 43.10 — Timing Risk**
+**AGENT 44.1 — Funding Rate Impact**
+**AGENT 44.2 — OI Trend Analysis**
+**AGENT 44.3 — L/S Ratio Impact**
+**AGENT 44.4 — Taker Ratio Impact**
+**AGENT 44.5 — Basis Analysis**
+**AGENT 44.6 — OI History Pattern**
+**AGENT 44.7 — Top Trader vs Retail**
+**AGENT 44.8 — Derivatives Confluence**
+**AGENT 44.9 — Derivatives Divergence**
+**AGENT 44.10 — Derivatives Risk**
+**AGENT 45.1 — Funding Extreme Long**
+**AGENT 45.2 — Funding Extreme Short**
+**AGENT 45.3 — Funding Trend Analysis**
+**AGENT 45.4 — Funding & Open Interest**
+**AGENT 45.5 — Funding & Price Action**
+**AGENT 45.6 — Funding Multi-Timeframe**
+**AGENT 45.7 — Funding & L/S Ratio**
+**AGENT 45.8 — Funding & Basis**
+**AGENT 45.9 — Funding Pattern**
+**AGENT 45.10 — Funding Risk**
+**AGENT 46.1 — Vote Aggregation Engine**
+**AGENT 46.2 — Confidence Tiers**
+**AGENT 46.3 — Outlier Rejection**
+**AGENT 46.4 — Agent Weighting**
+**AGENT 46.5 — Weighted Vote Calculation**
+**AGENT 46.6 — Signal Parameter Refinement**
+**AGENT 46.7 — Signal Timing**
+**AGENT 46.8 — Signal Context**
+**AGENT 46.9 — Signal Quality Score**
+**AGENT 46.10 — Signal Compiler Risk**
+**AGENT 47.1 — API Health Monitor**
+**AGENT 47.2 — Data Freshness Monitor**
+**AGENT 47.3 — System Performance**
+**AGENT 47.4 — Error Logging**
+**AGENT 47.5 — Backup & Failover**
+**AGENT 47.6 — Security Monitor**
+**AGENT 47.7 — User Alert System**
+**AGENT 47.8 — Dashboard Metrics**
+**AGENT 47.9 — Calibration Schedule**
+**AGENT 47.10 — Operations Risk**
+**AGENT 48.1 — Force Refresh (R)**
+**AGENT 48.2 — Pause/Resume (Space)**
+**AGENT 48.3 — Fullscreen (F)**
+**AGENT 48.4 — Sound Toggle (S)**
+**AGENT 48.5 — Force Bias Scan (L/H)**
+**AGENT 48.6 — Clear History (C)**
+**AGENT 48.7 — Quit (Q)**
+**AGENT 48.8 — Help (?)**
+**AGENT 48.9 — Screenshot (P)**
+**AGENT 48.10 — Command Risk**
+**AGENT 49.1 — API Error Recovery**
+**AGENT 49.2 — Data Error Recovery**
+**AGENT 49.3 — Agent Error Recovery**
+**AGENT 49.4 — Signal Error Recovery**
+**AGENT 49.5 — System Error Recovery**
+**AGENT 49.6 — WebSocket Recovery**
+**AGENT 49.7 — Notification Error**
+**AGENT 49.8 — Log Error Recovery**
+**AGENT 49.9 — Calibration Error**
+**AGENT 49.10 — Recovery Risk**
+**AGENT 50.1 — Phase 1: API Connectivity**
+**AGENT 50.2 — Phase 2: Market Data Acquisition**
+**AGENT 50.3 — Phase 3: Agent Swarm Boot**
+**AGENT 50.4 — Phase 4: Indicator Calibration**
+**AGENT 50.5 — Phase 5: Structure Mapping**
+**AGENT 50.6 — Phase 6: Derivatives Calibration**
+**AGENT 50.7 — Phase 7: Risk Parameter Set**
+**AGENT 50.8 — Phase 8: Gate Calibration**
+**AGENT 50.9 — Phase 9: UI Initialization**
+**AGENT 50.10 — Phase 10: System Ready**
+**AGENT 61.1 — Funding Rate History Analyst**
+**AGENT 61.2 — OI History Deep Analyst**
+**AGENT 61.3 — Taker Volume Deep Analyst**
+**AGENT 61.4 — Basis Deep Analyst**
+**AGENT 61.5 — Premium Index Analyst**
+**AGENT 61.6 — Open Interest Concentration**
+**AGENT 61.7 — Derivatives Divergence Matrix**
+**AGENT 61.8 — Binance Derivatives Combo**
+**AGENT 61.9 — ADL Quantile Analyst**
+**AGENT 61.10 — Derivatives Deep Risk**
+**AGENT 62.1 — Liquidation Spike Analyst**
+**AGENT 62.2 — Forced Order Timing**
+**AGENT 62.3 — Liquidation Volume Analysis**
+**AGENT 62.4 — ADL Risk Analyst**
+**AGENT 62.5 — Liquidation Cluster Detection**
+**AGENT 62.6 — Squeeze Dynamics**
+**AGENT 62.7 — Insurance Fund Context**
+**AGENT 62.8 — Liquidation Technical Combo**
+**AGENT 62.9 — Forced Order Microstructure**
+**AGENT 62.10 — Liquidation Risk Framework**
+**AGENT 63.1 — Spoofing Detector**
+**AGENT 63.2 — Layering Detector**
+**AGENT 63.3 — Quote Stuffing Detector**
+**AGENT 63.4 — Wash Trading Detector**
+**AGENT 63.5 — Front Running Detector**
+**AGENT 63.6 — Iceberg Order Detector**
+**AGENT 63.7 — TWAP/VWAP Execution**
+**AGENT 63.8 — Momentum Ignition Detector**
+**AGENT 63.9 — Algo Pattern Combo**
+**AGENT 63.10 — Algorithmic Risk**
+**AGENT 64.1 — Stop Hunt Specialist**
+**AGENT 64.2 — Liquidity Sweep Specialist**
+**AGENT 64.3 — Inducement Specialist**
+**AGENT 64.4 — Trap Specialist**
+**AGENT 64.5 — Fakeout Specialist**
+**AGENT 64.6 — Manipulation Timing**
+**AGENT 64.7 — Whale Order Analyst**
+**AGENT 64.8 — Manipulation Structure**
+**AGENT 64.9 — Manipulation Derivatives**
+**AGENT 64.10 — Manipulation Risk**
+**AGENT 65.1 — TPO Profile Analyst**
+**AGENT 65.2 — Initial Balance Analyst**
+**AGENT 65.3 — Value Area Analyst**
+**AGENT 65.4 — POC Analyst**
+**AGENT 65.5 — Poor High/Low Analyst**
+**AGENT 65.6 — Excess Analyst**
+**AGENT 65.7 — Open Type Analyst**
+**AGENT 65.8 — Range Extension Analyst**
+**AGENT 65.9 — AMT Technical Combo**
+**AGENT 65.10 — AMT Risk**
+**AGENT 66.1 — Renko Basics**
+**AGENT 66.2 — Renko Settings**
+**AGENT 66.3 — Range Bar Analyst**
+**AGENT 66.4 — Renko/RB Pattern**
+**AGENT 66.5 — Renko/RB Multi-Timeframe**
+**AGENT 66.6 — Renko/RB Volume/Flow**
+**AGENT 66.7 — Renko/RB Levels**
+**AGENT 66.8 — Renko/RB Indicators**
+**AGENT 66.9 — Renko/RB Structure**
+**AGENT 66.10 — Renko/RB Risk**
+**AGENT 67.1 — Binance Global L/S Analyst**
+**AGENT 67.2 — Binance Top Trader L/S Analyst**
+**AGENT 67.3 — Binance Taker Sentiment Analyst**
+**AGENT 67.4 — Binance Funding Sentiment**
+**AGENT 67.5 — Binance OI Sentiment**
+**AGENT 67.6 — Binance 24h Sentiment**
+**AGENT 67.7 — Binance Sentiment Divergence**
+**AGENT 67.8 — Binance Sentiment Confluence**
+**AGENT 67.9 — Binance Sentiment Technical**
+**AGENT 67.10 — Binance Sentiment Risk**
+**AGENT 68.1 — Monthly Seasonality**
+**AGENT 68.2 — Quarterly/Annual Cycle**
+**AGENT 68.3 — Lunar/Weekly Cycle**
+**AGENT 68.4 — Time Cycle Analyst**
+**AGENT 68.5 — Seasonality Trend**
+**AGENT 68.6 — Intraday Seasonality**
+**AGENT 68.7 — Cycle Convergence**
+**AGENT 68.8 — Seasonality Technical**
+**AGENT 68.9 — Seasonality Volume/Flow**
+**AGENT 68.10 — Seasonality Risk**
+**AGENT 69.1 — Pattern Recognition**
+**AGENT 69.2 — Regression Analyst**
+**AGENT 69.3 — Clustering Analyst**
+**AGENT 69.4 — Anomaly Detection**
+**AGENT 69.5 — Model Output**
+**AGENT 69.6 — Ensemble Model**
+**AGENT 69.7 — Feature Engineering**
+**AGENT 69.8 — Model Management**
+**AGENT 69.9 — ML Technical Combo**
+**AGENT 69.10 — ML Risk**
+**AGENT 70.1 — FOMO Control**
+**AGENT 70.2 — Revenge Trading Control**
+**AGENT 70.3 — Overconfidence Control**
+**AGENT 70.4 — Analysis Paralysis Control**
+**AGENT 70.5 — Confirmation Bias Control**
+**AGENT 70.6 — Loss Aversion Control**
+**AGENT 70.7 — Anchoring Control**
+**AGENT 70.8 — Recency Bias Control**
+**AGENT 70.9 — Risk Psychology**
+**AGENT 70.10 — Discipline & Focus**

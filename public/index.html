@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OMNISCIENT SCALPER v22 — TERMINAL</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand">OMNISCIENT SCALPER <span>v22.0</span></div>
+  <div id="hdrSym" class="sym">XAUUSDT</div>
+  <div id="hdrPrice" class="price">--</div>
+  <div id="hdrChg" class="chg">--</div>
+  <div class="spacer"></div>
+  <div id="hdrMeta" class="meta">boot..</div>
+</header>
+
+<section id="signal" class="signal neutral">
+  <div class="sigMain">
+    <span id="sigDir">NO SIGNAL</span>
+    <span id="sigConf" class="dim">conf --</span>
+  </div>
+  <div id="sigGeo" class="geo">SL -- / TP -- / RR --</div>
+  <div id="sigReason" class="reason">warming up…</div>
+</section>
+
+<main id="grid">
+
+  <div class="panel wide" id="p-chart">
+    <h3>PRICE <span class="tfbtns" id="tfbtns">
+      <button data-tf="1m">1m</button><button data-tf="3m">3m</button><button data-tf="5m">5m</button>
+      <button data-tf="15m" class="active">15m</button><button data-tf="1h">1h</button><button data-tf="4h">4h</button><button data-tf="1d">1d</button>
+    </span> <span id="chartMeta" class="tag">--</span></h3>
+    <canvas id="chartCv" width="860" height="380"></canvas>
+  </div>
+
+  <div class="panel" id="p-price">
+    <h3>PRICE &amp; BASIS</h3>
+    <div class="kv"><span>bid</span><b id="v-bid">--</b></div>
+    <div class="kv"><span>ask</span><b id="v-ask">--</b></div>
+    <div class="kv"><span>spread</span><b id="v-spread">--</b></div>
+    <div class="kv"><span>mark</span><b id="v-mark">--</b></div>
+    <div class="kv"><span>index</span><b id="v-index">--</b></div>
+    <div class="kv"><span>basis</span><b id="v-basis">--</b></div>
+    <div class="kv"><span>funding</span><b id="v-funding">--</b></div>
+    <div class="kv"><span>regime</span><b id="v-regime">--</b></div>
+    <div class="kv"><span>structure</span><b id="v-structure">--</b></div>
+  </div>
+
+  <div class="panel" id="p-book">
+    <h3>ORDER BOOK <span id="imbal" class="tag">--</span></h3>
+    <canvas id="bookCv" width="320" height="160"></canvas>
+    <div class="kv"><span>bid walls</span><b id="v-bidWalls">--</b></div>
+    <div class="kv"><span>ask walls</span><b id="v-askWalls">--</b></div>
+    <div class="kv"><span>imbalance</span><b id="v-imbal">--</b></div>
+  </div>
+
+  <div class="panel" id="p-swarm">
+    <h3>600-AGENT SWARM</h3>
+    <div class="tally">
+      <div class="barWrap"><span class="bLong" id="barLong"></span><span class="bShort" id="barShort"></span></div>
+    </div>
+    <div class="tallyNums">
+      <span id="t-long" class="up">LONG 0</span>
+      <span id="t-neu" class="dim">NEU 0</span>
+      <span id="t-short" class="down">SHORT 0</span>
+    </div>
+    <div id="perCat" class="perCat dim"></div>
+  </div>
+
+  <div class="panel" id="p-oi">
+    <h3>OPEN INTEREST</h3>
+    <div class="kv"><span>oi</span><b id="v-oi">--</b></div>
+    <div class="kv"><span>delta</span><b id="v-oiDelta">--</b></div>
+    <canvas id="oiCv" width="320" height="90"></canvas>
+  </div>
+
+  <div class="panel" id="p-delta">
+    <h3>DELTA / CVD</h3>
+    <div class="kv"><span>delta15 cur</span><b id="v-deltaCur">--</b></div>
+    <div class="kv"><span>cvd 1h</span><b id="v-cvd1h">--</b></div>
+    <div class="kv"><span>cvd rate</span><b id="v-cvdRate">--</b></div>
+    <canvas id="deltaCv" width="320" height="110"></canvas>
+  </div>
+
+  <div class="panel" id="p-geo">
+    <h3>SIGNAL GEOMETRY</h3>
+    <div class="kv"><span>entry cluster</span><b id="v-entry">--</b></div>
+    <div class="kv"><span>stop loss</span><b id="v-sl">--</b></div>
+    <div class="kv"><span>take profit</span><b id="v-tp">--</b></div>
+    <div class="kv"><span>risk / reward</span><b id="v-rr">--</b></div>
+    <div class="kv"><span>confidence</span><b id="v-conf">--</b></div>
+    <div class="kv"><span>streak</span><b id="v-streak">--</b></div>
+  </div>
+
+  <div class="panel" id="p-levels">
+    <h3>KEY LEVELS</h3>
+    <div class="kv"><span>prevDay H</span><b id="v-pdH">--</b></div>
+    <div class="kv"><span>prevDay L</span><b id="v-pdL">--</b></div>
+    <div class="kv"><span>pivot PP</span><b id="v-pp">--</b></div>
+    <div class="kv"><span>sess asian H</span><b id="v-sessH">--</b></div>
+    <div class="kv"><span>sess asian L</span><b id="v-sessL">--</b></div>
+    <div class="kv"><span>liq sweep</span><b id="v-liq">--</b></div>
+    <div class="kv"><span>corr BTC</span><b id="v-corr">--</b></div>
+  </div>
+
+  <div class="panel" id="p-div">
+    <h3>DIVERGENCES</h3>
+    <div id="divFlags" class="flags dim">--</div>
+    <h3 class="sub">MICROSTRUCTURE</h3>
+    <div class="kv"><span>agg buy %</span><b id="v-aggBuy">--</b></div>
+    <div class="kv"><span>large trades</span><b id="v-large">--</b></div>
+    <div class="kv"><span>trade seq</span><b id="v-seq">--</b></div>
+  </div>
+
+  <div class="panel" id="p-gates">
+    <h3>GATE PROTOCOL</h3>
+    <div id="gateList" class="gates">--</div>
+  </div>
+
+  <div class="panel wide" id="p-events">
+    <h3>EVENT LOG</h3>
+    <div id="evtList" class="evt">--</div>
+  </div>
+
+  <div class="panel wide" id="p-history">
+    <h3>SIGNAL HISTORY</h3>
+    <table id="histTable">
+      <thead><tr><th>time</th><th>dir</th><th>conf</th><th>entry</th><th>sl</th><th>tp</th><th>rr</th><th>result</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="panel" id="p-faults" class="wide">
+    <h3>AGENT FAULTS</h3>
+    <pre id="faults" class="faults">--</pre>
+  </div>
+
+</main>
+<script src="app.js"></script>
+</body>
+</html>
